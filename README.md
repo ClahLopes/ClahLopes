@@ -11,8 +11,8 @@
 #### Minhas ferramentas atuais
 🌎 Front-end Web com HTML, CSS, ReactJS <br>
 📡 Back-end com JAVA <br>
-🛠️ Typescript   
-🧰 E mais...  
+🛠️ Python 
+🧰 Trello 
 
 
 #### 💬 Encontre-me em outro lugar
